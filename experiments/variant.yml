@@ -1,0 +1,7 @@
+# This file was edited by CloudBees Feature Management
+type: experiment
+flag: variant
+availableValues:
+  - vat1
+  - var3
+  - var2
